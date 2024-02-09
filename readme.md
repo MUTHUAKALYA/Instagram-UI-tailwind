@@ -23,9 +23,15 @@ This project (Instagram UI challenge) assigned by Cyberdude Networks Pvt Ltd whi
 ✨**Live Link is Here**:https://muthuakalya.github.io/Instagram-UI-tailwind/
 <br>
 <br>
-![Walkthrough demo](./public/images/homescreen-output.png)
 
-![Walkthrough demo](./public/images/comments-output.png)
+![Walkthrough demo](./public/images/Instagram-darktheme-home-page.jpeg)
+
+
+![Walkthrough demo](./public/images/Instagram-darktheme-comments-section-page.jpeg)
+
+![Walkthrough demo](./public/images/Instagram-light-theme-home-page.jpeg)
+
+![Walkthrough demo](./public/images/Instagram-light-theme-comments-section-page.jpeg)
 
 ## Internship
 
@@ -37,10 +43,10 @@ HTML 5 | Tailwind CSS | Vite
 
 ## Features
 
-- Scroll X & Y Axis scroll on status and chats.
+- Visually appealing UI
 - Status rings.
-- Floating profile bar.
-
+- Dark & light variant
+- Comments section 
 
 ## Contributing
 
@@ -50,14 +56,17 @@ Feel free to contribute to this project by "Forking" this repo, and Add a PR for
 
 MIT
 
-<!-- ## Acknowledgments
+## Acknowledgments
 
-| Resources | Links |
+I would like to thank [Mr.Shajid Shafee](https://github.com/mshajid) for helping me to deploy this project into github pages.
+
+<!-- | Resources | Links |
 |--|--|
-| Color Pallet | colorhunt.co | -->
+| Color Pallet | colorhunt.co | --> 
 
 
 ---
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
